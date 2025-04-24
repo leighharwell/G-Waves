@@ -1,6 +1,7 @@
 # G-Waves Project
 ## With data from LIGO and VIRGO on gravitational wave events
 ### Goal: plot the mass distribution for NS-NS mergers, NS-BH mergers, and BH-BH mergers
+
 **Mass gaps:**
 A mass gap is a range of masses where we don’t expect to find black holes or neutron stars 
 
@@ -34,3 +35,15 @@ NS-NS mergers: chirp mass ~1.2 M☉ → long, gradual chirps
 BH-BH mergers: chirp mass ~10–30 M☉ → short, loud chirps 
 
 Chrip mass can be plotted against redshift data to provide a lookback in time. This can help look for evolution in the population of mergers over time (e.g., were heavier mergers more common in the early universe?) 
+
+M_chirp=(m1 +m2 )^1/5(m1 m2 )^3/5   
+
+**Energy:**
+When two compact objects spiral into each other, they lose orbital energy via gravitational radiation. That energy comes from their mass — meaning the final merged object weighs less than the sum of the two initial masses. 
+
+E_GW =(m1 +m2 −M_final )⋅c2 
+
+NS-NS mergers radiate far less than BH-BH, which can be visually striking 
+
+To put things in perspective: GW150914 radiated ~3 M☉ in energy. That’s more energy than the entire observable universe emitted in light during that time 
+
