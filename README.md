@@ -47,3 +47,6 @@ NS-NS mergers radiate far less than BH-BH, which can be visually striking
 
 To put things in perspective: GW150914 radiated ~3 M☉ in energy. That’s more energy than the entire observable universe emitted in light during that time 
 
+Plotting chirp mass v energy Helps visualize which systems (e.g., massive BH-BH binaries) are most "energetic."
+Allows comparison across different types of mergers (NS-NS vs. BH-BH).
+Supports understanding of which systems are most detectable — higher M → stronger, lower-frequency signal.
