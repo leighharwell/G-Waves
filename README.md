@@ -58,3 +58,16 @@ z: redshift
 t_L: look back time
 H(z): Hubble parameter as a function of the redshift 
 t_L = integral((dz')/((1+z')H(z')))
+
+**r-process elements**
+Merger Types:
+
+NS-NS (Neutron Star-Neutron Star):
+These mergers eject significant amounts of neutron-rich material, which is ideal for r-process nucleosynthesis.
+The average r-process yield is relatively high compared to other merger types.
+NS-BH (Neutron Star-Black Hole):
+These mergers eject less material than NS-NS mergers, as the black hole often swallows the neutron star without significant ejecta.
+The average r-process yield is lower than NS-NS mergers but still non-zero.
+BH-BH (Black Hole-Black Hole):
+BH-BH mergers typically do not eject material, as there are no neutron-rich components.
+The r-process yield is effectively 0 for these mergers.
