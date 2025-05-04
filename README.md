@@ -53,8 +53,3 @@ Plotting chirp mass v energy Helps visualize which systems (e.g., massive BH-BH 
 Allows comparison across different types of mergers (NS-NS vs. BH-BH).
 Supports understanding of which systems are most detectable — higher M → stronger, lower-frequency signal.
 
-**Lookback Time**
-z: redshift
-t_L: look back time
-H(z): Hubble parameter as a function of the redshift 
-t_L = integral((dz')/((1+z')H(z')))
