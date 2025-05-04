@@ -58,3 +58,11 @@ z: redshift
 t_L: look back time
 H(z): Hubble parameter as a function of the redshift 
 t_L = integral((dz')/((1+z')H(z')))
+
+**r-process elements:**
+
+r-process elements (short for rapid neutron-capture process elements) are heavy elements formed through a specific type of nuclear reaction that occurs in extreme astrophysical environments — primarily during neutron star mergers or certain kinds of supernovae.
+
+The r-process is a nucleosynthesis process in which atomic nuclei rapidly capture neutrons before they have time to decay. This leads to the creation of very heavy, neutron-rich nuclei, which later decay into stable heavy elements.
+
+Much of the gold and platinum on Earth likely originated from ancient neutron star mergers.
